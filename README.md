@@ -2,7 +2,7 @@
 This is an incomprehensive guide for people who've never programmed on how to get started programming in any language. *This guide is written by a monkey who can computer, so everything will be explained as simply as possible.*
 
 ## What you should know going into this
-There's a bit of debate regarding what knowledge someone needs ahead of time before jumping into programming. Why would you try and training for a marathon when you don't know how to walk? Some say you need a solid grasp of Calculus or Linear Algebra in order to do this stuff, and while this is true for certain fields of software engineering (like game development or simulation development), I personally would say a basic understanding of Algebra is all you need. If you can understand and solve the following problem, you are good to go.
+There's a bit of debate regarding what knowledge someone needs ahead of time before jumping into programming. Why would you try and train for a marathon when you don't know how to walk? Some say you need a solid grasp of Calculus or Linear Algebra in order to do this stuff, and while this is true for certain fields of software engineering (like game development or machine learning), I personally would say a basic understanding of Algebra is all you need to get started. If you can understand and solve the following problem, you are good to go.
 ```
 Solve for x
 y = 2x + 5
