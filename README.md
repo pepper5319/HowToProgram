@@ -1,11 +1,19 @@
 # How To Program for people who've never programmed before
 This is an incomprehensive guide for people who've never programmed on how to get started programming in any language. *This guide is written by a monkey who can computer, so everything will be explained as simply as possible.*
 
-## What you need to know
+## What you should know going into this
+There's a bit of debate regarding what knowledge someone needs ahead of time before jumping into programming. Why would you try and training for a marathon when you don't know how to walk? Some say you need a solid grasp of Calculus or Linear Algebra in order to do this stuff, and while this is true for certain fields of software engineering (like game development or simulation development), I personally would say a basic understanding of Algebra is all you need. If you can understand and solve the following problem, you are good to go.
+```
+Solve for x
+y = 2x + 5
+y = 9
+```
+
+## What you will learn
 The following are the concepts one should learn **in order**, as each concept builds off the previous, at minimum in order program a computer. One should think of these not as things one needs in order to write code in a specific language, but rather as tools one needs under their belt in order to solve problems.
 
 ### Fundamental Concepts
-1. Understand what **Input** and **Output** are
+1. Understand what **Input** and **Output** are. [Read](https://github.com/pepper5319/HowToProgram/blob/master/fundamental_concepts/input_output.md)
 2. Understand **IF** *this* **THEN** *that* concept
 3. Understand what **Variables** are
 
