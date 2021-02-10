@@ -14,8 +14,8 @@ The following are the concepts one should learn **in order**, as each concept bu
 
 ### Fundamental Concepts
 1. Understand what **Input** and **Output** are. [Read](https://github.com/pepper5319/HowToProgram/blob/master/fundamental_concepts/input_output.md)
-2. Understand **IF** *this* **THEN** *that* concept
-3. Understand what **Variables** are
+2. Understand **IF** *this* **THEN** *that* concept. [Read](https://github.com/pepper5319/HowToProgram/blob/master/fundamental_concepts/if_then.md)
+3. Understand what **Variables** are. [Read](https://github.com/pepper5319/HowToProgram/blob/master/fundamental_concepts/variables.md)
 
 ### Programming Basics
 1. Basic Data Types
