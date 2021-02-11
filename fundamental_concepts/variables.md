@@ -25,3 +25,18 @@ let trash_bin: Trash = "a trash item"
 We can see here that the `type` of items that our variable `recycle_bin` is allowed to hold are `Recyclable` items, and only `Trash` items are allowed to go into the `trash_bin` variable. What would happen if we put a `Trash` item in `recycle_bin`? Well, in most programming languages it would tell you "Only `Recyclable` items are allowed in `recycle_bin`". However other's might not do anything at first, but if you try and use `recycle_bin` as an `Input` for code that can only handle `Recyclable` items, and you have a `Trash` item stored, then all kinds of things can go wrong and break, or you'll get an unexpected `Output`.
 
 Every programming language has built in `data types` that we will look at in the next section, but you can create your own too if you want.
+
+## Variables can Equal Variables
+When assigning a variable a value, you can actually make a variable equal another variable. Looking at the below pseudocode:
+```
+let var_A = 10
+let var_B = var_A
+```
+We are setting the value of `var_B` to equal that of `var_A`. If we were to output `var_B` to the screen, what will we see? We should see `10`.
+Now, there is something to keep in mind when updating a variable. If you were to update the value of `var_A` to be `15` AFTER setting `var_B` to equal `var_A`, and then output `var_B`, what would you see? 
+```
+let var_A = 10
+let var_B = var_A
+var_A = 15
+```
+This is depends on what programming language you are writing in. If you are writing in Python 3, you would still see `10`, because when we wrote `var_B = var_A`, we were copying the value of `var_A` into `var_B`, making the values the same, but any operation we perform on the variable's values will be independent from each other. In other languages, `var_B` will always equal `var_A` (if the value is assigned this way), because `var_B` doesn't actually store the value, it instead _points_ to the value that `var_A` is storing (this is a pretty advanced topic so don't worry about it, just keep this in mind if you are seeing any weird behavior with your variables).
