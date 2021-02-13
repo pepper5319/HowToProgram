@@ -2,12 +2,16 @@
 This is an incomprehensive guide for people who've never programmed on how to get started programming in any language. *This guide is written by a monkey who can computer, so everything will be explained as simply as possible.*
 
 ## What you should know going into this
-There's a bit of debate regarding what knowledge someone needs ahead of time before jumping into programming. Why would you try and train for a marathon when you don't know how to walk? Some say you need a solid grasp of Calculus or Linear Algebra in order to do this stuff, and while this is true for certain fields of software engineering (like game development or machine learning), I personally would say a basic understanding of Algebra is all you need to get started. If you can understand and solve the following problem, you are good to go.
+There's a bit of debate regarding what knowledge someone needs ahead of time before jumping into programming. Why run when you haven't yet learned to walk? One might think you need a solid grasp of calculus or linear algebra in order to do this stuff, and while this is true for certain subfields of software engineering (like game development or machine learning), I personally would say a basic understanding of high school algebra is all you need to get started. If you can understand and solve the following problem, you are good to go.
 ```
 Solve for x
 y = 2x + 5
 y = 9
 ```
+
+### Writing Actual Code
+This guide is written with the intention of being used to learn ANY programming language. However, all examples will (usually) be written in Python, a very powerful but very easy to learn language. If you would like to follow along in the course by actually writing code, you will need to install Python. I recommend following [this tutorial for installing on Windows 10](https://www.youtube.com/watch?v=UvcQlPZ8ecA) and this tutorial for [installing on macOS](https://www.youtube.com/watch?v=TgA4ObrowRg).
+_Note: Don't worry too much about which version of Python you install. As long as it's Python 3 and above, you should still be able to follow along._
 
 ## What you will learn
 The following are the concepts one should learn **in order**, as each concept builds off the previous, at minimum in order program a computer. One should think of these not as things one needs in order to write code in a specific language, but rather as tools one needs under their belt in order to solve problems.
