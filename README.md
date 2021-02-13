@@ -22,7 +22,7 @@ The following are the concepts one should learn **in order**, as each concept bu
 3. Understand what **Variables** are. [Read](https://github.com/pepper5319/HowToProgram/blob/master/fundamental_concepts/variables.md)
 
 ### Programming Basics
-1. Basic Data Types [Read](https://github.com/pepper5319/HowToProgram/blob/master/fundamental_concepts/readme.md)
+1. Basic Data Types [Read](https://github.com/pepper5319/HowToProgram/blob/master/basic_types/readme.md)
     1. Booleans [Read](https://github.com/pepper5319/HowToProgram/blob/master/basic_types/booleans.md)
     2. Integers
     3. Strings
