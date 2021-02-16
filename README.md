@@ -25,7 +25,7 @@ The following are the concepts one should learn **in order**, as each concept bu
 ### Programming Basics
 1. Basic Data Types [Read](https://github.com/pepper5319/HowToProgram/blob/master/basic_types/readme.md)
     1. Booleans [Read](https://github.com/pepper5319/HowToProgram/blob/master/basic_types/booleans.md)
-    2. Integers
+    2. Numbers [Read](https://github.com/pepper5319/HowToProgram/blob/master/basic_types/numbers.md)
     3. Strings
 2. Operators
     1. Arithmetic `+, -, *, /, %(modulus)`
@@ -44,10 +44,9 @@ The following are the concepts one should learn **in order**, as each concept bu
 
 ### Intermediate Concepts
 1. Intermediate Data Types
-    1. Floats
-    2. Arrays/Lists/Tuples
-    3. Dictionaries
-    4. Structs/Enums
+    1. Arrays/Lists/Tuples
+    2. Dictionaries
+    3. Structs/Enums
 2. Functions
     1. Parameters and Arguments
     2. Returning values
