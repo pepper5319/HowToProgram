@@ -26,8 +26,8 @@ The following are the concepts one should learn **in order**, as each concept bu
 1. Basic Data Types [Read](https://github.com/pepper5319/HowToProgram/blob/master/basic_types/readme.md)
     1. Booleans [Read](https://github.com/pepper5319/HowToProgram/blob/master/basic_types/booleans.md)
     2. Numbers [Read](https://github.com/pepper5319/HowToProgram/blob/master/basic_types/numbers.md)
-    3. Strings
-2. Operators
+    3. Strings [Read](https://github.com/pepper5319/HowToProgram/blob/master/basic_types/strings.md)
+2. Operators [Read](https://github.com/pepper5319/HowToProgram/blob/master/operators)
     1. Arithmetic `+, -, *, /, %(modulus)`
     2. Comparison `==, !=, <, >, <=, >=`
     3. Logical `!, &&, ||`
