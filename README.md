@@ -31,7 +31,7 @@ The following are the concepts one should learn **in order**, as each concept bu
     1. Arithmetic `+, -, *, /, %(modulus)`
     2. Comparison `==, !=, <, >, <=, >=`
     3. Logical `!, &&, ||`
-3. Control Flow
+3. Control Flow [Read](https://github.com/pepper5319/HowToProgram/blob/master/conditionals)
     1. `If` statements
     2. `Else` statements
     3. `Else If` statements
