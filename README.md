@@ -31,14 +31,13 @@ The following are the concepts one should learn **in order**, as each concept bu
     1. Arithmetic `+, -, *, /, %(modulus)`
     2. Comparison `==, !=, <, >, <=, >=`
     3. Logical `!, &&, ||`
-3. Control Flow [Read](https://github.com/pepper5319/HowToProgram/blob/master/conditionals)
+3. Conditionals [Read](https://github.com/pepper5319/HowToProgram/blob/master/conditionals)
     1. `If` statements
     2. `Else` statements
     3. `Else If` statements
-4. Loops
-    1. While/Do-While
-    2. For Loop
-    3. For-each Loop
+4. Loops [Read](https://github.com/pepper5319/HowToProgram/blob/master/loops)
+    1. While
+    2. For/Foreach
 
 ### [Milestone Project 1](https://github.com/pepper5319/HowToProgram/blob/master/milestones.md#project-1)
 

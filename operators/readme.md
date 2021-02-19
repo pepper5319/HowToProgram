@@ -14,7 +14,6 @@ Takes two inputs and compares the two, returning True or False depending on the 
 - `!=`: Is Not Equal? - Checks if two variables are **not** equal to each other
 - `<=`: Less Than or Equal? - Checks if a variable is greater than or equal to another variable
 - `>=`: , Greater Than or Equal? - Checks if a variable is less than or equal to another variable
-
 - `<`, `>`: Less Than?, Greater Than? - Usually used for comparing numbers
 ~~~python
 x = 5
@@ -41,6 +40,17 @@ let a = inp_1 && inp_2;    // false
 let b = inp_1 || inp_2;        // true
 let c = !(inp_1 && inp_2);     // true
 ~~~
+
+## Assignment Operators
+If we want to update a variable to be equal to it's previous value plus another value, we could write it like `x = x + 1`. However most languages have a shorthand way of doing this using _Assignment_ operators, and can be used with any _Arithmetic_ operator. 
+```
+x += 1
+x -= 1
+x *= 1
+x /= 1
+x %= 1
+```
+
 
 ## Example
 You can chain all of these together to get more and more complex logic, and things can quickly look confusing when first learning. An important thing to remember is that like in math, these operators usually follow the same **Order of Operations** (treat _And_ as multiplication and _Or_ as addition)
